@@ -5,6 +5,21 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
     {
+        title: "Lead Backend Developer",
+        cardImage: "assets/images/experience-page/ep.jpg",
+        place: "Telenor Microfinance Bank Ltd.",
+        time: "Jan 2023 – Present",
+        desp: "<li>Easypaisa (Wallet Application)</li>" +
+            "https://easypaisa.com.pk",
+    },{
+        title: "Senior Software Engineer",
+        cardImage: "assets/images/experience-page/sys.jpg",
+        place: "Systems Ltd.",
+        time: "Jun 2023 – Dec 2023",
+        desp: "<li>RTS (UAE)</li>" +
+            "https://www.systemsltd.com",
+    },
+    {
         title: "Sr. Backend Developer (Remote)",
         cardImage: "assets/images/experience-page/i2f.jpg",
         place: "IdeaToLife (Pvt) Ltd.",
