@@ -6,6 +6,20 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Easypaisa App",
+    cardImage: "assets/images/project-page/ep.jpg",
+    description: "",
+    tagimg: "",
+    Previewlink: "Download from play store",
+    Githublink: "",
+  },{
+    title: "Roads and Transport Authority",
+    cardImage: "assets/images/project-page/rta.jpg",
+    description: "",
+    tagimg: "",
+    Previewlink: "https://www.rta.ae/",
+    Githublink: "",
+  },{
     title: "Purpl",
     cardImage: "assets/images/project-page/purpl.jpg",
     description: "",

@@ -16,7 +16,7 @@ const exp = [
         cardImage: "assets/images/experience-page/sys.jpg",
         place: "Systems Ltd.",
         time: "Jun 2023 – Dec 2023",
-        desp: "<li>RTS (UAE)</li>" +
+        desp: "<li>RTA (UAE)</li>" +
             "https://www.systemsltd.com",
     },
     {
