@@ -137,6 +137,7 @@ let footer = $(`
                   <textarea name="anotherInput" placeholder="Type your Message" required></textarea>
                   <input type="submit" value="Send" />
                 </form>
+                
              </div>
           </div>
         </div>
